@@ -14,10 +14,8 @@ Football,Leverkusen,Heidenheim,2024-11-23 17:30:00,Bundesliga,Germany
 Football,Borussia Dortmund,Freiburg,2024-11-23 17:30:00,Bundesliga,Germany
 Football,Hoffenheim,LEIPZIG,2024-11-23 17:30:00,Bundesliga,Germany
 Football,Karlovac 1919,Krizevci,2024-11-23 17:00:00,Druga NL,Croatia
-Football,Triglav Kranj,Ilirija Ljubljana,2024-11-26 18:00:00,2. Liga,Slovenia
 Football,FC Orenburg,Zenit Saint Petersburg,2024-11-23 12:00:00,Premier League,Russia
 Football,Sydney FC,Western Sydney Wanderers,2024-11-23 11:35:00,A-League,Australia
-Football,Wofoo Tai Po,Hong Kong FC,2024-11-23 10:00:00,Premier League,"Hong Kong, China"
 Football,AFK Csikszereda Miercurea Ciuc,CS Mioveni,2024-11-23 12:00:00,Liga 2,Romania
 Football,Csm Resita,CS Unirea Ungheni 2018,2024-11-23 12:00:00,Liga 2,Romania
 Football,Putrajaya Athletic FC,Sabah,2024-11-23 12:00:00,Piala Malaysia,Malaysia
@@ -34,29 +32,96 @@ Football,Phnom Penh,Tiffy Army,2024-11-23 14:00:00,Cambodian Premier League,Camb
 Football,Everton,Brentford,2024-11-23 18:00:00,Premier League,England
 Football,Bournemouth,Brighton,2024-11-23 18:00:00,Premier League,England
 Football,Posta Ranger,Mathare United,2024-11-23 16:00:00,Premier League,Kenya
+Football,Valencia,Real Betis Seville,2024-11-23 16:00:00,LaLiga,Spain
+Football,Wolfsburg,UNION BERLIN,2024-11-23 17:30:00,Bundesliga,Germany
+Football,FK Khimki,FK Krasnodar,2024-11-23 16:30:00,Premier League,Russia
+Football,FC Dynamo Kyiv,Chernomorets Odessa,2024-11-23 16:30:00,Premier League,Ukraine
+Football,Shrewsbury,Birmingham,2024-11-23 15:30:00,League One,England
+Football,Sabail FK,Qarabag FK,2024-11-23 16:00:00,Premier League,Azerbaijan
+Football,Notts County,Newport,2024-11-23 15:30:00,League Two,England
+Football,Kayserispor,Fenerbahce Istanbul,2024-11-23 16:00:00,Super Lig,Turkiye
+Football,The New Saints FC,Pen-y-Bont FC,2024-11-23 17:30:00,Cymru Premier,Wales
+Football,Girona,Espanyol,2024-11-23 20:30:00,LaLiga,Spain
+Football,Eintracht Frankfurt,Werder Bremen,2024-11-23 20:30:00,Bundesliga,Germany
+Football,RC Lens,Olympique Marseille,2024-11-23 19:00:00,Ligue 1,France
+Football,Oxford United,Middlesbrough,2024-11-23 18:00:00,Championship,England
+Football,Blackburn,Portsmouth,2024-11-23 18:00:00,Championship,England
+Football,Go Ahead Eagles,Almere City FC,2024-11-23 18:30:00,Eredivisie,Netherlands
+Football,Feyenoord Rotterdam,SC Heerenveen,2024-11-23 20:45:00,Eredivisie,Netherlands
+Football,FK Spartak Moscow,Lokomotiv Moscow,2024-11-23 18:00:00,Premier League,Russia
+Football,Glasgow Rangers,Dundee United,2024-11-23 18:00:00,Premiership,Scotland
+Football,Grasshopper Club Zurich,Winterthur,2024-11-23 20:00:00,Super League,Switzerland
+Football,Lech Poznan,GKS Katowice,2024-11-23 19:30:00,Ekstraklasa,Poland
+Football,FC Shakhtar Donetsk,Ingulets Petrove,2024-11-23 19:00:00,Premier League,Ukraine
+Football,WSG Tirol,SK Rapid,2024-11-23 19:00:00,Bundesliga,Austria
+Football,SK Sturm Graz,SK Austria Klagenfurt,2024-11-23 19:00:00,Bundesliga,Austria
+Football,FC Salzburg,LASK,2024-11-23 19:00:00,Bundesliga,Austria
+Football,Rosenborg BK,Sarpsborg 08,2024-11-23 19:00:00,Eliteserien,Norway
+Football,Viking FK,FK Haugesund,2024-11-23 19:00:00,Eliteserien,Norway
+Football,Molde FK,SK Brann,2024-11-23 19:00:00,Eliteserien,Norway
+Football,Odds BK,Bodoe/Glimt,2024-11-23 19:00:00,Eliteserien,Norway
+Football,Vitoria SC Guimaraes,UD Leiria,2024-11-23 19:45:00,Taca de Portugal,Portugal
+Football,Niger Tornadoes FC,Ikorodu City,2024-11-23 18:00:00,Premier League,Nigeria
+Football,Lobi Stars,Kano Pillars FC,2024-11-23 18:00:00,Premier League,Nigeria
+Football,Bendel Insurance FC,Kwara United,2024-11-23 18:00:00,Premier League,Nigeria
+Football,Club Brugge,St. Truidense VV,2024-11-23 18:00:00,Pro League,Belgium
+Football,Sparta Prague,Teplice,2024-11-23 18:00:00,1. Liga,Czechia
+Football,PFC Levski Sofia,Lokomotive Sofia,2024-11-23 18:30:00,Parva Liga,Bulgaria
+Football,Bodrumspor,Galatasaray Istanbul,2024-11-23 19:00:00,Super Lig,Turkiye
+Football,Union Luxembour,Bettemburg,2024-11-23 19:00:00,Division Nationale,Luxembourg
+Football,FK Jedinstvo UB,Crvena Zvezda Belgrade,2024-11-23 19:00:00,Superliga,Serbia
+Football,Magesi FC,Mamelodi Sundowns,2024-11-23 19:00:00,Knockout Cup,South Africa
+Football,Dinamo Zagreb,Rijeka,2024-11-23 19:45:00,HNL,Croatia
+Football,Al-Khaleej Club,Al Hilal SFC,2024-11-23 20:00:00,Saudi Pro League,Saudi Arabia
+Football,Aris Thessaloniki,Volos Nps,2024-11-23 20:30:00,Super League,Greece
+Football,Las Palmas,Mallorca,2024-11-23 20:30:00,LaLiga,Spain
+Football,AS Saint-Etienne,Montpellier HSC,2024-11-23 21:00:00,Ligue 1,France
+Football,Stade Reims,Olympique Lyon,2024-11-23 23:00:00,Ligue 1,France
+Football,Fortuna Sittard,FC Twente,2024-11-23 23:00:00,Eredivisie,Netherlands
+Football,PSV Eindhoven,FC Groningen,2024-11-23 23:00:00,Eredivisie,Netherlands
+Football,Heart of Midlothian FC,Celtic Glasgow,2024-11-23 22:45:00,Premiership,Scotland
+Football,Legia Warszawa,MKS Cracovia Krakow,2024-11-23 22:15:00,Ekstraklasa,Poland
+Football,Leixoes SC,SC Braga,2024-11-23 21:30:00,Taca de Portugal,Portugal
+Football,SL Benfica,Estrela Amadora,2024-11-23 23:45:00,Taca de Portugal,Portugal
+Football,FK Vojvodina Novi Sad,FK Tekstilac Odzaci,2024-11-23 21:00:00,Superliga,Serbia
+Football,Rs Berkane,Husa Hassania,2024-11-23 22:00:00,Botola Pro D1,Morocco
+Football,Hamburg,Schalke 04,2024-11-23 22:30:00,2. Bundesliga,Germany
+Football,FC Penya d'Andorra,FC Pas de La Casa,2024-11-23 22:30:00,Primera Divisio,Andorra
+Football,KRC Genk,Royal Charleroi SC,2024-11-23 22:45:00,Pro League,Belgium
+Football,Botafogo RJ,EC Vitoria,2024-11-24 01:30:00,Brasileiro Serie A,Brazil
+Football,AC Goianiense,SE Palmeiras,2024-11-24 01:30:00,Brasileiro Serie A,Brazil
+Football,Llaneros,Quindio,2024-11-24 00:00:00,Primera B,Colombia
+Football,U. Magdalena,Soacha,2024-11-24 00:00:00,Primera B,Colombia
+Football,Marathon,CD Genesis,2024-11-24 00:00:00,"Liga Nacional, Apertura",Honduras
+Football,Auckland City FC,Coastal Spirit FC,2024-11-24 04:00:00,National League,New Zealand
+Football,Eastern Suburbs AFC,Western Suburbs FC,2024-11-24 04:00:00,National League,New Zealand
+Football,Alajuelense,Puntarenas,2024-11-24 05:00:00,"Primera Division, Apertura",Costa Rica
+Football,Southampton,Liverpool,2024-11-24 17:00:00,Premier League,England
+Football,Ipswich,Manchester United,2024-11-24 19:30:00,Premier League,England
+Football,Ulinzi Stars,Bidco United,2024-11-24 16:00:00,Premier League,Kenya
 Basketball,Utah Jazz,NY Knicks,2024-11-24 01:00:00,NBA,USA
 Basketball,Orlando,Detroit,2024-11-24 03:00:00,NBA,USA
 Basketball,Milwaukee,Charlotte,2024-11-24 04:00:00,NBA,USA
 Basketball,Houston,Portland,2024-11-24 04:00:00,NBA,USA
 Basketball,Chicago,Memphis,2024-11-24 04:00:00,NBA,USA
-Basketball,Toyota Boshoku Sunshine Rabbits,Chanson V-Magic,2024-11-23 08:00:00,W League Premier,Japan
-Basketball,Orange Vikings,Toyama,2024-11-23 08:00:00,B2 League,Japan
-Basketball,Hawaii,North Carolina,2024-11-23 08:30:00,"NCAA, Regular Season",USA
-Basketball,Geelong United,Canberra,2024-11-23 09:00:00,WNBL,Australia
-Basketball,Altiri Chiba,Watts,2024-11-23 09:00:00,B2 League,Japan
-Basketball,Fire Bonds,Fukui Blowwinds,2024-11-23 09:05:00,B2 League,Japan
+Basketball,San Antonio,Golden State,2024-11-24 04:30:00,NBA,USA
+Basketball,LA Lakers,Denver,2024-11-24 06:30:00,NBA,USA
 Basketball,Yamagata Wyverns,Storks,2024-11-23 11:00:00,B2 League,Japan
 Basketball,Kagoshima Rebnise,Rizing Fukuoka,2024-11-23 11:00:00,B2 League,Japan
 Basketball,Townsville,Adelaide,2024-11-23 12:00:00,WNBL,Australia
 Basketball,Chuncheon Woori,Incheon S-Birds,2024-11-23 12:00:00,Wkbl,Republic of Korea
+Basketball,Sertas Spor,High Touch Ht,2024-11-23 13:30:00,TB2L,Turkiye
 Basketball,Emlak Konut SK,Adana,2024-11-23 14:00:00,"Super Lig, Women",Turkiye
 Basketball,Perth Lynx,Sydney,2024-11-23 14:30:00,WNBL,Australia
+Basketball,Basquete C Barcelos,Quinta Dos Lombos,2024-11-23 14:45:00,Campeonato Nacional Liga Feminina,Portugal
 Basketball,Karamursel Gsk,Ege Universitesi Gsk,2024-11-23 15:00:00,TB2L,Turkiye
 Basketball,Kocaeli Bsb,Gocekspor,2024-11-23 15:00:00,TB2L,Turkiye
 Basketball,Etimesgut Belediyesi,Beylikduzu Basket,2024-11-23 15:30:00,TB2L,Turkiye
 Basketball,OGM Ormanspor,Trabzonspor,2024-11-23 15:30:00,TBL,Turkiye
+Basketball,Uppsala Basket,Ostersund Basket,2024-11-23 16:00:00,"SBL, Women",Sweden
 Basketball,KK Vilkaviskio Perlas,Neptunas Klaipeda 2,2024-11-23 16:00:00,NKL,Lithuania
 Basketball,Nesibe Aydin,Tarsus Spor,2024-11-23 16:00:00,"Super Lig, Women",Turkiye
+Basketball,Abb Egospor,Haznedar Doruk SK,2024-11-23 16:00:00,TB2L,Turkiye
 Basketball,Hogsbo Basket,Sodertalje BBK,2024-11-23 17:00:00,"SBL, Women",Sweden
 Basketball,Tapiolan Honka,Forssan Alku,2024-11-23 17:00:00,"Korisliiga, Women",Finland
 Basketball,BC Telsiai,Palangos Olimpas,2024-11-23 17:00:00,NKL,Lithuania
@@ -65,11 +130,79 @@ Basketball,Delikatesas Joniskis,BC Silute,2024-11-23 17:00:00,NKL,Lithuania
 Basketball,Plunges Olimpas,BC Zalgiris Kaunas II,2024-11-23 17:00:00,NKL,Lithuania
 Basketball,Vefa 1908,Ilkler Sehri Usak,2024-11-23 17:00:00,TB2L,Turkiye
 Basketball,Vimpelin Veto,BC Nokia,2024-11-23 17:00:00,"Korisliiga, Women",Finland
+Basketball,Balikesir Belediye Spor,Fenerbahce Koleji,2024-11-23 17:15:00,TBL,Turkiye
 Basketball,Soproni Darazsak,David Kornel Ka,2024-11-23 17:45:00,"NB I. A, Women",Hungary
 Basketball,Geneve Elite Basket,Riva Basket,2024-11-23 18:00:00,"SB League, Women",Switzerland
 Basketball,Espoo Basket Team,Kouvottaret,2024-11-23 18:00:00,"Korisliiga, Women",Finland
+Basketball,Pozega,Ragusa Dubrovnik,2024-11-23 18:00:00,A1 Liga Women,Croatia
+Basketball,Aanekosken Huima,Helsingin Nmky,2024-11-23 18:00:00,1 Division,Finland
 Basketball,Omega Tauras LSU,Ukmerges Stekas,2024-11-23 18:00:00,NKL,Lithuania
-Tennis,Hassan B / Myneni S,Kirkov V / Willis M,2024-11-23 07:50:00,"ATP Challenger Yokohama, Japan Men Doubles",Challenger
+Basketball,Kretingos Kretinga,Suduva Mantinga Marijampole,2024-11-23 18:00:00,NKL,Lithuania
+Basketball,Oulun Basketball,Raholan Pyrkiva,2024-11-23 18:00:00,1 Division,Finland
+Basketball,Sleza Wroclaw,Lublin,2024-11-23 18:00:00,"Basket Liga, Women",Poland
+Basketball,Zemun,Bkk Radnicki Belgrade,2024-11-23 18:00:00,KLS,Serbia
+Basketball,Akhisar Belediye,Corlu Belediyesi,2024-11-23 18:00:00,TB2L,Turkiye
+Basketball,SPD Radnicki Kragujevac,Sloboda,2024-11-23 19:00:00,KLS,Serbia
+Basketball,Helios Vs Basket,Esperance Sportive Pully,2024-11-23 19:00:00,"SB League, Women",Switzerland
+Basketball,AD Sanjoanense,CP Esgueira,2024-11-23 19:00:00,Campeonato Nacional Liga Feminina,Portugal
+Basketball,DSK,Loh 2028 Chomutov,2024-11-23 19:00:00,ZBL,Czech Republic
+Basketball,Celta Baloncesto,Araski AES,2024-11-23 19:00:00,Liga Femenina,Spain
+Basketball,Pula,Zadar,2024-11-23 19:00:00,A1 Liga Women,Croatia
+Basketball,Stetson,La Salle,2024-11-23 19:00:00,"NCAA, Regular Season",USA
+Basketball,Marquette,Georgia,2024-11-23 19:00:00,"NCAA, Regular Season",USA
+Basketball,Ukraine,Israel,2024-11-23 19:00:00,"EuroBasket, Qualification",International
+Basketball,Florida Int.,CS Bakersfield,2024-11-23 19:00:00,"NCAA, Regular Season",USA
+Basketball,Mark Basket,IK Eos Lund,2024-11-23 19:00:00,"SBL, Women",Sweden
+Basketball,KFUM Blackeberg,AIK Basket,2024-11-23 19:00:00,Superettan,Sweden
+Basketball,BC Alte Kanti Aarau,Nyon Basket,2024-11-23 19:30:00,"SB League, Women",Switzerland
+Basketball,Targoviste,CS Phoenix Constanta,2024-11-23 20:00:00,"LNB, Women",Romania
+Basketball,Purdue,Marshall,2024-11-23 20:00:00,"NCAA, Regular Season",USA
+Basketball,Georgetown,St F. Red Flash,2024-11-23 20:00:00,"NCAA, Regular Season",USA
+Basketball,Zkk Zadar Plus,Ka Zana Lelas,2024-11-23 20:00:00,A1 Liga Women,Croatia
+Basketball,Georgia Southern,West Georgia Wolves,2024-11-23 20:00:00,"NCAA, Regular Season",USA
+Basketball,KSC Szekszard,TFSE-MTK Budapest,2024-11-23 20:00:00,"NB I. A, Women",Hungary
+Basketball,Okk Novi Pazar,Tamis,2024-11-23 20:00:00,KLS,Serbia
+Basketball,Mladost SP,Kk Dynamic,2024-11-23 20:00:00,KLS,Serbia
+Basketball,Maryland Baltimore,Boston Uni.,2024-11-23 20:00:00,"NCAA, Regular Season",USA
+Basketball,Vermont,Delaware,2024-11-23 20:00:00,"NCAA, Regular Season",USA
+Basketball,Polkowice,Inea Poznan,2024-11-23 20:00:00,"Basket Liga, Women",Poland
+Basketball,Bizkaia,Zaragoza,2024-11-23 20:30:00,Liga Femenina,Spain
+Basketball,Hannover,Basket Rheinland,2024-11-23 20:30:00,1. DBBL,Germany
+Basketball,Charlotte,LIU Sharks,2024-11-23 20:30:00,"NCAA, Regular Season",USA
+Basketball,Gussing/Jennersdorf Blackbirds,Vienna United PSV,2024-11-23 21:00:00,Zweite Liga,Austria
+Basketball,Canisius,Brown,2024-11-23 21:00:00,"NCAA, Regular Season",USA
+Basketball,St. Thomas (MN) Tommies,Portland State,2024-11-23 21:00:00,"NCAA, Regular Season",USA
+Basketball,Gran Canaria,Ardoi Baloncesto,2024-11-23 21:00:00,Liga Femenina,Spain
+Basketball,Alba Berlin,Angels Nordlingen,2024-11-23 21:00:00,1. DBBL,Germany
+Basketball,Marburg,Herne,2024-11-23 21:00:00,1. DBBL,Germany
+Basketball,Vrsac,Metalac Valjevo,2024-11-23 21:00:00,KLS,Serbia
+Basketball,Psa Sant Antimo,Virtus Cassino,2024-11-23 21:00:00,Serie B,Italy
+Basketball,UMass Lowell River Hawks,Quinnipiac,2024-11-23 21:00:00,"NCAA, Regular Season",USA
+Basketball,Valencia BC,Univ. de Ferrol,2024-11-23 21:15:00,Liga Femenina,Spain
+Basketball,AS Ramat Hasharon,Ashkelon,2024-11-23 21:30:00,National League,Israel
+Basketball,Maccabi Rehovot,Ironi Naharia,2024-11-23 21:30:00,National League,Israel
+Basketball,East Carolina,Illinois Chicago,2024-11-23 21:30:00,"NCAA, Regular Season",USA
+Basketball,CB Estudiantes,Avenida,2024-11-23 21:30:00,Liga Femenina,Spain
+Basketball,Marist,New Hampshire,2024-11-23 22:00:00,"NCAA, Regular Season",USA
+Basketball,Georgia Tech,Cincinnati,2024-11-23 22:00:00,"NCAA, Regular Season",USA
+Basketball,Tarbes GB,Basket Lattes,2024-11-23 22:00:00,"LFB, Women",France
+Basketball,Lyon Basket,Landerneau Bretagne Basket,2024-11-23 22:00:00,"LFB, Women",France
+Basketball,Charleville Mezieres,Bourges,2024-11-23 22:00:00,"LFB, Women",France
+Basketball,Roche Vendee Basket Club,ESB Villeneuve,2024-11-23 22:00:00,"LFB, Women",France
+Basketball,Charleston Southern,Furman,2024-11-23 22:00:00,"NCAA, Regular Season",USA
+Basketball,Basket Mestre 1958,Virtus Kleb Ragusa,2024-11-23 22:30:00,Serie B,Italy
+Basketball,Urania Milano,Pallacanestro 2.015 Forli,2024-11-23 22:30:00,Serie A2,Italy
+Basketball,Gipuzkoa,Cadi La Seu,2024-11-23 22:45:00,Liga Femenina,Spain
+Basketball,Illinois State,UAB Blazers,2024-11-23 23:00:00,"NCAA, Regular Season",USA
+Basketball,Bellarmine Knights,Bowling Green,2024-11-23 23:00:00,"NCAA, Regular Season",USA
+Basketball,Paffoni,Pallacanestro Vicenza,2024-11-23 23:00:00,Serie B,Italy
+Basketball,Wisconsin,Wofford,2024-11-24 00:00:00,"NCAA, Regular Season",USA
+Basketball,Akron Zips,Nebraska-Omaha,2024-11-24 00:00:00,"NCAA, Regular Season",USA
+Basketball,JSU Gamecocks,James Madison,2024-11-24 00:00:00,"NCAA, Regular Season",USA
+Tennis,Honda N / Sanada S,Shimizu Y / Tu L,2024-11-23 10:30:00,"ATP Challenger Yokohama, Japan Men Doubles",Challenger
+Tennis,"Lim, Alberto","Sinclair, Colin",2024-11-23 10:30:00,Davis Cup,Davis Cup
+Tennis,Nam J / Romios M C,Bayldon B / Puttergill C,2024-11-23 11:40:00,"ATP Challenger Yokohama, Japan Men Doubles",Challenger
+Tennis,Hassan B / Myneni S,Kirkov V / Willis M,2024-11-23 11:40:00,"ATP Challenger Yokohama, Japan Men Doubles",Challenger
 Tennis,"Fognini, Fabio","Montes-de la Torre, Inaki",2024-11-23 13:00:00,"ATP Challenger Montemar, Spain Men Singles",Challenger
 Tennis,"Martin Tiffon, Pol","Neumayer, Lukas",2024-11-23 14:30:00,"ATP Challenger Montemar, Spain Men Singles",Challenger
 Tennis,Italy,Australia,2024-11-23 15:00:00,Davis Cup,Davis Cup
@@ -77,7 +210,9 @@ Tennis,Balaji N S / Bollipalli R C,Arribage T / Cabral F,2024-11-23 16:30:00,"AT
 Tennis,"Barrios Vera, Marcelo Tomas","Tirante, Thiago Agustin",2024-11-23 17:00:00,"ATP Challenger Sao Paulo, Brazil Men Singles",Challenger
 Tennis,"Soto, Matias","Comesana, Francisco",2024-11-23 18:10:00,"ATP Challenger Sao Paulo, Brazil Men Singles",Challenger
 Tennis,"Landaluce, Martin","Nardi, Luca",2024-11-23 18:30:00,"ATP Challenger Rovereto, Italy Men Singles",Challenger
+Tennis,Drzewiecki K / Matuszewski P,Rincon D / Shelbayh A,2024-11-23 19:00:00,"ATP Challenger Montemar, Spain Men Doubles",Challenger
 Tennis,"Chang, Hanna","Brancaccio, Nuria",2024-11-23 19:00:00,"WTA 125K Charleston 2, USA Women Singles",WTA 125K
+Tennis,Gomez F A / Martinez L D,Harrison C / King E,2024-11-23 19:20:00,"ATP Challenger Sao Paulo, Brazil Men Doubles",Challenger
 Tennis,"Maestrelli, Francesco","Holmgren, August",2024-11-23 19:40:00,"ATP Challenger Rovereto, Italy Men Singles",Challenger
 Tennis,"Zarazua, Renata","Davis, Lauren",2024-11-23 20:10:00,"WTA 125K Charleston 2, USA Women Singles",WTA 125K
 Tennis,Cross K / Hovde L,Brancaccio N / Romero Gormaz L,2024-11-23 21:20:00,"WTA 125K Charleston 2, USA Women Doubles",WTA 125K

@@ -16,7 +16,7 @@ sports_apis = [
         "url": "https://api.betika.com/v1/uo/matches",
         "params": {
             "page": 1,
-            "limit": 35,
+            "limit": None,
             "tab": "",
             "sub_type_id": "1,186,340",
             "sport_id": "14",
@@ -30,7 +30,7 @@ sports_apis = [
         "url": "https://api.betika.com/v1/uo/matches",
         "params": {
             "page": 1,
-            "limit": 35,
+            "limit": None,
             "tab": "",
             "sub_type_id": "1,186,340",
             "sport_id": "30",
@@ -44,7 +44,7 @@ sports_apis = [
         "url": "https://api.betika.com/v1/uo/matches",
         "params": {
             "page": 1,
-            "limit": 35,
+            "limit": None,
             "tab": "",
             "sub_type_id": "1,186,340",
             "sport_id": "28",
